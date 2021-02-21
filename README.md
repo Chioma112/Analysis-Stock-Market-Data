@@ -4,7 +4,7 @@
 
 VBA scripting to analyze real stock market data.
 
-### Stock market analyst
+### Stock market analysis
 
 ![stock Market](Images/stockmarket.jpg)
 
